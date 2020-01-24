@@ -9,28 +9,28 @@
         "ToTime": "12:30 PM",
         "Status": "Booked",
         "Organiser": "Damyant",
-        "Title:": "C#"
+        "Title": "C#"
       },
       {
         "FromTime": "2:00 PM",
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Damyant",
-        "Title:": "C#"
+        "Title": "C#"
       },
       {
         "FromTime": "4:00 PM",
         "ToTime": "5:00 PM",
         "Status": "Booked",
         "Organiser": "Damyant",
-        "Title:": "ASP.NET"
+        "Title": "ASP.NET"
       },
       {
         "FromTime": "7:00 PM",
         "ToTime": "7:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "OOPS Concept"
+        "Title": "OOPS Concept"
       }
 
     ]
@@ -46,28 +46,28 @@
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "SQL"
+        "Title": "SQL"
       },
       {
         "FromTime": "2:50 PM",
         "ToTime": "3:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "MVC"
+        "Title": "MVC"
       },
       {
         "FromTime": "4:00 PM",
         "ToTime": "5:30 PM",
         "Status": "Booked",
         "Organiser": "Pratik",
-        "Title:": "MVVM"
+        "Title": "MVVM"
       },
       {
         "FromTime": "7:15 PM",
         "ToTime": "7:40 PM",
         "Status": "Booked",
         "Organiser": "Siddhant",
-        "Title:": "Xamarin"
+        "Title": "Xamarin"
       }
     ]
   },
@@ -82,28 +82,28 @@
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "Xamarin.Android"
+        "Title": "Xamarin.Android"
       },
       {
         "FromTime": "2:30 PM",
         "ToTime": "3:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "Xamarin Forms"
+        "Title": "Xamarin Forms"
       },
       {
         "FromTime": "4:00 PM",
         "ToTime": "5:30 PM",
         "Status": "Booked",
         "Organiser": "Shikha",
-        "Title:": "Xamarin.Ios"
+        "Title": "Xamarin.Ios"
       },
       {
         "FromTime": "7:15 PM",
         "ToTime": "7:30 PM",
         "Status": "Booked",
         "Organiser": "Naresh",
-        "Title:": "C#"
+        "Title": "C#"
       }
     ]
   },
@@ -118,21 +118,21 @@
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
-        "Title:": "Generics"
+        "Title": "Generics"
       },
       {
         "FromTime": "5:30 PM",
         "ToTime": "6:30 PM",
         "Status": "Booked",
         "Organiser": "Pratik",
-        "Title:": "Delegates"
+        "Title": "Delegates"
       },
       {
         "FromTime": "7:15 PM",
         "ToTime": "7:30 PM",
         "Status": "Booked",
         "Organiser": "Pratik",
-        "Title:": "C# Basic"
+        "Title": "C# Basic"
       }
     ]
   },
@@ -147,27 +147,28 @@
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Pratik",
-        "Title:": "E-Commerce"
+        "Title": "E-Commerce"
       },
       {
         "FromTime": "2:30 PM",
         "ToTime": "3:30 PM",
         "Status": "Booked",
         "Organiser": "Siddhant",
-        "Title:": "Payroll"
+        "Title": "Payroll"
       },
       {
         "FromTime": "7:00 PM",
         "ToTime": "7:30 PM",
         "Status": "Booked",
-        "Organiser": "Siddhant"
+        "Organiser": "Siddhant",
+        "Title" :  "Cloud"
       },
       {
         "FromTime": "7:35 PM",
         "ToTime": "8:00 PM",
         "Status": "Booked",
         "Organiser": "Siddhant",
-        "Title:": "Meeting room sync-up"
+        "Title": "Meeting room sync-up"
       }
     ]
   },
@@ -181,14 +182,14 @@
         "ToTime": "2:00 PM",
         "Status": "Booked",
         "Organiser": "Siddhant",
-        "Title:": "DHP sync-up"
+        "Title": "DHP sync-up"
       },
       {
         "FromTime": "2:30 PM",
         "ToTime": "5:30 PM",
         "Status": "Booked",
         "Organiser": "Shikha",
-        "Title:": "Asset App sync-up"
+        "Title": "Asset App sync-up"
       },
 
       {
@@ -196,7 +197,7 @@
         "ToTime": "8:00 PM",
         "Status": "Booked",
         "Organiser": "Shikha",
-        "Title:": "Cab App sync-up"
+        "Title": "Cab App sync-up"
       }
     ]
   },
@@ -210,28 +211,28 @@
         "ToTime": "12:30 PM",
         "Status": "Booked",
         "Organiser": "Shikha",
-        "Title:": "C#"
+        "Title": "C#"
       },
       {
         "FromTime": "12:30 PM",
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Shikha",
-        "Title:": "ASP.NET 101"
+        "Title": "ASP.NET 101"
       },
       {
         "FromTime": "3:15 PM",
         "ToTime": "4:40 PM",
         "Status": "Booked",
         "Organiser": "Naresh",
-        "Title:": "C# 101"
+        "Title": "C# 101"
       },
       {
         "FromTime": "5:45 PM",
         "ToTime": "7:30 PM",
         "Status": "Booked",
         "Organiser": "Naresh",
-        "Title:": "Xamarin 101"
+        "Title": "Xamarin 101"
       }
     ]
   }
