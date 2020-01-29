@@ -42,7 +42,7 @@
     "Location": "Bangalore",
     "TimeSlots": [
       {
-        "FromTime": "11:00 PM",
+        "FromTime": "11:00 AM",
         "ToTime": "2:30 PM",
         "Status": "Booked",
         "Organiser": "Koushik",
