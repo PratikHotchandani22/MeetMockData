@@ -5,7 +5,7 @@
     "Location": "Bangalore",
     "TimeSlots": [
       {
-        "FromTime": "12:00 PM",
+        "FromTime": "11:00 AM",
         "ToTime": "12:30 PM",
         "Status": "Booked",
         "Organiser": "Damyant",
