@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Silver Room",
+    "Name": "Silver",
 
     "Location": "Bangalore",
     "TimeSlots": [
@@ -38,7 +38,7 @@
 
 
   {
-    "Name": "Platinum Room",
+    "Name": "Platinum",
     "Location": "Bangalore",
     "TimeSlots": [
       {
@@ -74,7 +74,7 @@
 
 
   {
-    "Name": "Gold Room",
+    "Name": "Gold",
     "Location": "Bangalore",
     "TimeSlots": [
       {
@@ -110,7 +110,7 @@
 
 
   {
-    "Name": "Carbon Room",
+    "Name": "Carbon",
     "Location": "Bangalore",
     "TimeSlots": [
       {
@@ -139,7 +139,7 @@
 
 
   {
-    "Name": "Titanium Room",
+    "Name": "Titanium",
     "Location": "Bangalore",
     "TimeSlots": [
       {
@@ -174,7 +174,7 @@
   },
 
   {
-    "Name": "Copper Room",
+    "Name": "Copper",
     "Location": "Bangalore",
     "TimeSlots": [
       {
@@ -203,7 +203,7 @@
   },
 
   {
-    "Name": "Silicon Room",
+    "Name": "Silicon",
     "Location": "Bangalore",
     "TimeSlots": [
       {
