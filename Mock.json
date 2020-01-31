@@ -5,8 +5,8 @@
     "Location": "Bangalore",
     "TimeSlots": [
       {
-        "FromTime": "11:00 AM",
-        "ToTime": "12:30 PM",
+        "FromTime": "2:40 PM",
+        "ToTime": "3:30 PM",
         "Status": "Booked",
         "Organiser": "Damyant",
         "Title": "C#"
